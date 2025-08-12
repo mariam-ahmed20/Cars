@@ -1,0 +1,83 @@
+.container {
+    position: relative;
+    padding-block: 4.6rem;
+}
+
+.vector {
+    position: absolute;
+    width: 650px; 
+    height: 700px;
+    top: 6rem;
+    z-index: -1;
+    left: -6.3rem;
+}
+
+.car {
+    margin-left: -7.2rem;
+}
+
+.row {
+    display: flex;
+    align-items: center;
+}
+
+.why {
+    font-family: Poppins;
+
+}
+
+.why h3 {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    padding: 16px 32px;
+    width: 181px;
+    border-radius: 8px;
+    color: rgba(21, 114, 211, 1);
+    background-color: rgba(21, 114, 211, 0.1);
+
+}
+
+.why h4 {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 38px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: rgba(51, 51, 51, 1);
+
+}
+
+.reason {
+    display: flex;
+    align-items: center;
+    margin: 1rem;
+}
+
+.reason img {
+    width: 64px;
+    height: 64px;
+    margin-right: 1rem;
+}
+
+.reason h5 {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 20px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: rgba(0, 0, 0, 1);
+
+}
+
+.reason p {
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: rgba(109, 109, 109, 1);
+
+}

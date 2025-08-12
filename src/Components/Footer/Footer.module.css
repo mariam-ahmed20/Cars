@@ -1,0 +1,50 @@
+.footer {
+    background-color: rgba(5, 28, 52, 1);
+    color: rgba(214, 214, 214, 1);
+    padding: 3% 10.5% 2.5%;
+}
+
+.subfooter {
+    padding-left: 0rem;
+}
+
+.footer li {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    line-height: 150%;
+    font-size: 14px;
+}
+
+.footer li img {
+    width: 24px;
+    margin: 15px 8px;
+}
+
+.footer li h5 {
+    color: rgba(255, 255, 255, 1);
+    font-weight: 500;
+    font-size: 16px;
+    margin-bottom: 2rem;
+}
+
+.footer .logo img {
+    width: 116px;
+    margin-top: .3rem;
+    
+}
+
+.footer .listIcons {
+    margin: -.7rem;
+}
+
+.footer hr {
+    color: rgba(87, 87, 87, 1);
+    border: 1px solid ;
+}
+
+.footer p {
+    font-weight: 400;
+    font-size: 12px;
+}

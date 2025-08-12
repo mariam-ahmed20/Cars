@@ -1,0 +1,68 @@
+.row {
+    padding-block: 8.7%;
+    font-family: Poppins;
+}
+
+.left {
+    position: relative;
+}
+
+.left .vector {
+    position: absolute;
+    width: 858px;
+    height: 630px;
+    bottom: -132px;
+    left: 13px;
+    z-index: -1;
+}
+
+.car {
+    margin-top: 10%;
+    width: 90%;
+}
+
+.right {
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    margin-left: 1rem;
+}
+
+
+.right h3 {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 14px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: rgba(21, 114, 211, 1);
+    background-color: rgba(21, 114, 211, 0.1);
+    padding: 16px 32px;
+    border-radius: 8px;
+}
+
+.right h4 {
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 38px;
+    line-height: 130%;
+    letter-spacing: 0%;
+    color: rgba(51, 51, 51, 1);
+    margin-bottom: 2rem;
+
+}
+
+.details {
+    color: rgba(21, 114, 211, 1);
+    
+} 
+
+.right h5 {
+    font-size: 14px;
+    color: rgba(149, 149, 149, 1);
+    margin-block: .5rem;
+}
+
+.right h5 img {
+    margin-right: 5px;
+}

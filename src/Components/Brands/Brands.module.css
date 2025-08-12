@@ -1,0 +1,9 @@
+.brands {
+    margin-block: 4rem;
+}
+
+
+.brands img {
+    margin-inline: 4%;
+    width:  11%;
+}

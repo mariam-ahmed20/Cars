@@ -1,0 +1,98 @@
+.container {
+    padding: 0 5.25%;
+    overflow: hidden;
+}
+
+.container .sec5 h3 {
+    width: 480px;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 120%;
+    font-family: Poppins;
+    color: rgba(40,40,40,1);
+}
+
+.container .sec5 p {
+    font-family: Poppins;
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: rgba(62,62,62,1);
+}
+
+.container .sec5 span {
+    font-style: SemiBold;
+    color: rgba(21, 114, 211, 1);
+}
+
+.container .sec5 .icon {
+    width: 174.86px;
+    height: 51.74px;
+    opacity: 1;
+    border-radius: 10.14px;
+    margin-right: 8px;
+}
+
+.container form {
+    display: flex;
+    flex-direction: column;
+    margin-top: 4rem;
+
+}
+
+.container form input {
+    width: 374px;
+    height: 56px;
+    top: 322px;
+    left: 79px;
+    border: none;
+    border-radius: 61px;
+    background-color: rgba(206, 220, 255, 1);
+    margin: 8px 0;
+    padding-left: 2rem;
+}
+
+.container form button {
+    width: 159px;
+    height: 48px;
+    gap: 8px;
+    opacity: 1;
+    top: 540px;
+    left: 186px;
+    border-radius: 8px;
+    padding: 8px;
+    color: white;
+    background-color: rgba(21, 114, 211, 1);
+    border: none;
+    margin: 1rem 6.5rem;
+}
+
+.container .sec5 {
+    position: relative;
+    padding-block: 2rem;
+}
+
+.container .sec5 .img {
+    position: absolute;
+    width: 650px; 
+    height: 800px;
+    top: -10rem;
+    z-index: -1;
+    left: -4.3rem;
+}
+
+.phone img {
+    width: 520.22px;
+ 
+    /* width: 32.6rem; */
+    /* height: 471px; */
+    /* margin-left: 13%; */
+    margin-left: 6rem;
+    margin-left: 13%;
+    margin-top: 10.5rem;
+    /* left: 839px; */
+
+
+}

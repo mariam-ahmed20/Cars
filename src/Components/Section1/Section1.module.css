@@ -1,0 +1,58 @@
+.main {
+    position: relative;
+    font-family: Poppins;
+    padding-block: 14% 7%;
+}
+
+.main .mainCar {
+    width: 105%;
+    margin-left: 9%;
+}
+
+.main .background {
+    position: absolute;
+    width: 40rem;
+    top: -5.6rem;
+    right: -6.3rem;
+    z-index: -1;
+}
+
+.main .left {
+    padding: 4% 3%;
+}
+
+.main .left h1 {
+    font-weight: 600;
+    font-style: SemiBold;
+    font-size: 48px;
+    line-height: 100%;
+    color: rgba(36, 36, 36, 1);
+
+}
+
+.main .left span {
+    color: rgba(21, 114, 211, 1);
+    position: relative;
+}
+
+.left .vector {
+    position: absolute;
+    top: 3rem;
+    right: 0rem;
+    width: 100%;
+}
+
+.left p {
+    font-weight: 400;
+    font-style: Regular;
+    font-size: 18px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: rgba(39, 39, 39, 1);
+    margin-block: 1.5rem;
+
+}
+
+.icon {
+    margin-right: 8px;
+}

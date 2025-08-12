@@ -1,0 +1,31 @@
+.nav a{
+    font-family: Poppins;
+    font-weight: 500;
+    font-style: Medium;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0%;
+    color: rgba(72, 72, 72, 1);
+    margin: 1rem;
+}
+
+
+.nav .auth button {
+    width: 125;
+    height: 43;
+    gap: 8px;
+    border-radius: 8px;
+    padding: 16px 32px;
+    border: none;
+    background-color: transparent;
+    color: rgba(72, 72, 72, 1);
+    margin-inline: 5px;
+}
+
+
+
+
+.auth button.active {
+  background-color: rgba(21, 114, 211, 1);
+  color: white;
+}
