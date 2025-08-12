@@ -4,7 +4,7 @@ import { useParams } from 'react-router-dom';
 import airconditioning from '../../assets/imges/card/d8wxke_2_.png'
 import automatic from '../../assets/imges/card/Frame.png'
 import door from '../../assets/imges/card/doors.png'
-import vector from '../../assets/imges/landing-page/sec-5/vector.png'
+import vector from '../../assets/imges/landing-page/sec-5/Vector.png'
 import passanger from '../../assets/imges/card/user.png'
 import Car from '../../assets/imges/landing-page/sec-5/Audi 1.png'
 import axios from 'axios';
