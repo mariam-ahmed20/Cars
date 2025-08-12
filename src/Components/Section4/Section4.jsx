@@ -1,6 +1,6 @@
 import React from 'react'
 import car from '../../assets/imges/landing-page/sec-5/Audi 1.png'
-import chat from '../../assets/imges/landing-page/sec-5/Chat.png'
+import chat from '../../assets/imges/landing-page/sec-5/chat.png'
 import sms from '../../assets/imges/landing-page/sec-5/message.png'
 import user from '../../assets/imges/landing-page/sec-5/user.png'
 import vector from '../../assets/imges/landing-page/sec-5/vector.png'
