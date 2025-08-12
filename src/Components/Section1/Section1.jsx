@@ -1,6 +1,6 @@
 import React from 'react'
 import mainCar from '../../assets/imges/landing-page/car 2 1.png'
-import photo from '../../assets/imges/landing-page/frame.png'  
+import photo from '../../assets/imges/landing-page/Frame.png'  
 import vector from '../../assets/imges/landing-page/vector 1.png'
 import andriod from '../../assets/imges/landing-page/andriod.png'
 import ios from '../../assets/imges/landing-page/ios.png'
